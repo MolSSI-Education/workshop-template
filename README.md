@@ -2,7 +2,8 @@
 
 [![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
 
-This is a MolSSI-ified software carpentry template to be used for development of all MolSSI education lessons.
+This is a MolSSI-ified software carpentry template to be used for development of MolSSI education workshops which can be
+considered as aggregations of tutorials targeting a specific topic.
 
 To start a new lesson, follow these [instructions] from Software Carpentry (replacing the repo URL with this one).
 

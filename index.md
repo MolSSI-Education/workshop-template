@@ -2,24 +2,22 @@
 ---
 
 The following represents the [Molecular Sciences Software Institute]({{ site.molssi_site }})(MolSSI) workshop 
-series in heterogeneous parallel programming with CUDA C/C++ at the beginner, intermediate and advanced levels.
+series in \<TITLE\> (FIXME).
 To see the full MolSSI's education mission statement, please see [here](http://molssi.org/education/education-mission-statement/).
 
 > ## Prerequisites
 >
-> - Previous knowledge of High-performance Computing (HPC) basic concepts are helpful but not required for starting this course.
-Nevertheless, we encourage students to take a glance at our [Parallel Programming](https://education.molssi.org/parallel-programming)
-tutorial, specifically, Chapters 1, 2 and 5 for a brief overview of some of the fundamental concepts in HPC.
-> - Basic familiarity with Bash, C and C++ programming languages is required.
+> - Prerequisite 1 (FIXME).
+> - Prerequisite 2 (FIXME).
 {: .prereq}
 
 # Workshop Overview 
 
-| Lesson    | Overview | Level |
+| Title     | Overview | Level |
 | --------- | -------- | ----- |
-| 1. [Fundamentals of Heterogeneous Parallel Programming with CUDA C/C++](http://education.molssi.org/gpu_programming_beginner) | Fundamentals of heterogeneous parallel programming with CUDA C/C++ | Beginner |
-| 2. [CUDA C/C++ Programming and GPU Architecture: A Closer Look](http://education.molssi.org/gpu_programming_intermediate) | Profile-driven approach toward CUDA C/C++ programming with deeper insights from GPU architecture | Intermediate |
-| 3. [Advanced CUDA Programming in Computer and Molecular Sciences](http://education.molssi.org/gpu_programming_advanced) | Special topics in CUDA C/C++ programming and its applications in computer and molecular sciences | Advanced |
+| 1. [Tutorial 1 (FIXME)](http://education.molssi.org/workshop-template) | Main goal of the tutorial 1 (FIXME) | Difficulty level (FIXME) |
+| 2. [Tutorial 2 (FIXME)](http://education.molssi.org/workshop-template) | Main goal of the tutorial 2 (FIXME) | Difficulty level (FIXME) |
+| 3. [Tutorial 3 (FIXME)](http://education.molssi.org/workshop-template) | Main goal of the tutorial 3 (FIXME) | Difficulty level (FIXME) |
 
 
 {% include links.md %}
